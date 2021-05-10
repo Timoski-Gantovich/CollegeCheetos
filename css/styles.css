@@ -1,0 +1,19 @@
+body {
+  margin: auto;
+
+  background-color: rgb(255, 98, 0);
+  position: relative;
+
+  max-width: 995px;
+  max-height: 600px;
+  text-align: center;
+}
+h1 {
+  font-family: "Leckerli One", cursive;
+  color: black;
+  outline: 5px solid #fff100;
+}
+body {
+  color: black;
+  position: relative;
+}
