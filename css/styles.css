@@ -4,14 +4,23 @@ body {
   background-color: rgb(255, 98, 0);
   position: relative;
 
-  max-width: 995px;
-  max-height: 600px;
+  width: 995px;
+  height: 600px;
   text-align: center;
 }
 h1 {
   font-family: "Leckerli One", cursive;
   color: black;
   outline: 5px solid #fff100;
+}
+
+img {
+  width: 250px;
+  height: 125px;
+}
+img:not(.cheetos) {
+  width: 1000px;
+  height: auto;
 }
 body {
   color: black;
